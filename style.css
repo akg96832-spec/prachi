@@ -1,0 +1,30 @@
+body {
+  background: black;
+  color: white;
+  text-align: center;
+  font-family: Arial;
+}
+
+.glow {
+  font-size: 40px;
+  color: gold;
+  text-shadow: 0 0 20px gold;
+}
+
+.hidden {
+  display: none;
+}
+
+.slider img {
+  width: 250px;
+  margin: 10px;
+  border-radius: 15px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+  background: gold;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
